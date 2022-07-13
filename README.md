@@ -1,2 +1,2 @@
 # Mario-Jump
-Jogo simples feito em JavaScript, utilizando Canvas
+Jogo simples feito em JavaScript
